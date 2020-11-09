@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#03A9F4</color>
+    <color name="colorPrimaryDark">#0288D1</color>
+    <color name="colorAccent">#B3E5FC</color>
+    <color name="image_picker_accent">#03A9F4</color>
+
+    <color name="image_picker_primaryText">#212121</color>
+    <color name="image_picker_secondaryText">#727272</color>
+    <color name="image_picker_divider">#B6B6B6</color>
+
+    <color name="toolbarPrimaryText">#FFFFFF</color>
+
+    <color name="image_picker_albumTextBackground">#99FFFFFF</color>
+    <color name="image_picker_imagePickerBackground">#000000</color>
+
+    <color name="image_picker_buttonText">#FFFFFF</color>
+</resources>
