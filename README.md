@@ -58,7 +58,8 @@ protected void onActivityResult(int requestCode, int resultCode, Intent data) {
 }
 ```
 #Example
-![Alt text](/document/example.gif)
+
+<img src="/document/example.gif" width="400" height="700"/>
 
 Checkout my other contributions, https://github.com/dvinfosys?tab=repositories
 
