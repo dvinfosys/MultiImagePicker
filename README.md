@@ -7,19 +7,6 @@ can be selected. Can be used in apps with APK 11 onwards.
 #Usage
 Include this library in your project using gradle (thanks to [JitPack.io](https://github.com/jitpack-io)).
 
-For stable build:
-```gradle
-repositories {
-  maven {
-    url "https://jitpack.io"
-  }
-}
-
-dependencies {
-  implementation 'com.github.dvinfosys:MultiImagePicker:[<Latest_Release>](https://github.com/dvinfosys/MultiImagePicker/releases)'
-}
-```
-
 For using the latest build, replace the tag in dependencies above with latest commit hash. Example:
 ```gradle
 repositories {
@@ -29,9 +16,11 @@ repositories {
 }
 
 dependencies {
-  compile 'com.github.darsh2:MultipleImageSelect:3474549'
+  implementation 'com.github.dvinfosys:MultiImagePicker:1.0.0'
 }
 ```
+
+Check out [MultiImagePicker releases](https://github.com/dvinfosys/MultiImagePicker/releases) to see more stable versions.
 
 In project's AndroidManifest.xml, add the following under application node:
 ```xml
